@@ -1,0 +1,21 @@
+h1{
+    color:rgba(157, 151, 218, 0.9)
+    
+}
+<div class="w-[370px] h-[561px] mr-[30px] bg-white hover:bg-bannerOverly rounded-lg">
+                    <div class="pt-[60px] px-[148px] pb-[35px] text-center ">
+                        <h3 class="text-blackColor text-[30px] font-bold font-openS hover:text-white">Basic</h3>
+                    </div>
+                    <div class=" h-[170px] bg-projectlogocolor hover:bg-projectimgbg">
+                        <picture>
+                            <img src="images/projectlogo1.png" alt="projectlogo1.png" loading="lazy"/>
+                        </picture>
+                    </div>
+                    <div class="pt-[20px] px-[59px] pb-[59px] text-center">
+                        <h3 class="text-headerHover text-[48px] font-bold font-openS"><i class="fa-solid fa-dollar-sign"></i>160</h3>
+                        <p class="text-whycolorP text-[18px] font-normal font-paprika leading-[30px] hover:text-white"> Responsive Design
+                            Dynamic Elements
+                            Service Pages
+                            Custom Design & Features</p>
+                    </div>
+                </div>
